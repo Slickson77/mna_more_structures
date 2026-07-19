@@ -1,0 +1,36 @@
+{
+  "name": "mna_more_structures:oak_magic_stump_1/oak_magic_stump_under",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": 
+		{
+        "location": "mna_more_structures:oak_magic_stump_1_under_1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+		}
+    },
+	{
+      "weight": 1,
+      "element": 
+		{
+        "location": "mna_more_structures:oak_magic_stump_1_under_2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+		}
+	},
+    {
+		"weight": 1,
+		"element": 
+		{
+        "location": "mna_more_structures:oak_magic_stump_1_under_3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+		}	
+	}
+  ]
+}

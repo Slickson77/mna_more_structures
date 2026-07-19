@@ -1,0 +1,24 @@
+{
+  "name": "mna_more_structures_toggle",
+  "subPath": "MnA More Structures",
+  "header": "Config file which lets you disable the structures you don't like!",
+  "config_type": "ENABLE_DISABLE",
+  "comments": {  },
+  "structure_sets": [
+    {
+      "modid": "mna_more_structures",
+      "structure_set": [
+        "mna_more_structures:faction"//,
+        //"mna_more_structures:ritual"
+      ]
+    },
+    {
+      "modid": "mna",
+      "structure_set": [
+        "mna:faction_strongholds",
+        "mna:scatter",
+        "mna:manaweave_caches"
+      ]
+    }
+  ]
+}

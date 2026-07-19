@@ -1,0 +1,62 @@
+{
+	"type": "lithostitched:add_structure_set_entries",
+	"priority": 1000,
+	"structure_sets": [
+		"mna:scatter"
+	  ],
+	  "entries": [
+		{
+		  "structure": "mna_more_structures:scatter/birch_magic_stump_1",
+		  "weight": 1
+		},
+		{
+		  "structure": "mna_more_structures:scatter/birch_magic_stump_2",
+		  "weight": 1
+		},
+		{
+		  "structure": "mna_more_structures:scatter/spruce_magic_stump_1",
+		  "weight": 1
+		},
+		{
+		  "structure": "mna_more_structures:scatter/spruce_magic_stump_2",
+		  "weight": 1
+		},		
+		{
+		  "structure": "mna_more_structures:scatter/darkoak_magic_stump_1",
+		  "weight": 1
+		},
+		{
+		  "structure": "mna_more_structures:scatter/darkoak_magic_stump_2",
+		  "weight": 1
+		},
+		{
+			"structure": "mna_more_structures:scatter/witchy_hat_house_1",
+			"weight": 1
+		},
+		{
+		  "structure": "mna_more_structures:scatter/witchy_hat_house_2",
+		  "weight": 1
+		},
+		{
+		  "structure": "mna_more_structures:scatter/witchy_hat_library_1",
+		  "weight": 1
+		},
+		{
+		  "structure": "mna_more_structures:scatter/oak_magic_stump_4",
+		  "weight": 1
+		},
+		{
+		  "structure": "mna_more_structures:scatter/oak_magic_stump_3",
+		  "weight": 1
+		},
+		{
+		  "structure": "mna_more_structures:scatter/oak_magic_stump_2",
+		  "weight": 1
+		},
+		{
+		  "structure": "mna_more_structures:scatter/oak_magic_stump_1",
+		  "weight": 1
+		}
+
+	  ]
+}

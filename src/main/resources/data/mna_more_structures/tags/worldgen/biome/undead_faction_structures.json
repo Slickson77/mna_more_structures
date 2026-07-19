@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+		"minecraft:nether_wastes",
+		"minecraft:dark_forest",
+		"minecraft:windswept_forest",
+		"minecraft:soul_sand_valley",
+		"minecraft:warped_forest",
+		"minecraft:frozen_peaks",
+		"minecraft:ice_spikes",
+		"minecraft:snowy_beach",
+		"minecraft:snowy_plains",
+		"minecraft:snowy_slopes",
+		"minecraft:snowy_taiga",
+		"minecraft:taiga",
+		"minecraft:windswept_gravelly_hills",
+		"minecraft:windswept_hills",
+		"minecraft:windswept_savanna"
+  ]
+}
