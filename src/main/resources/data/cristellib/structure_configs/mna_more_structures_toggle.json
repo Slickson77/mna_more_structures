@@ -8,8 +8,8 @@
     {
       "modid": "mna_more_structures",
       "structure_set": [
-        "mna_more_structures:faction"//,
-        //"mna_more_structures:ritual"
+        "mna_more_structures:faction",
+        "mna_more_structures:ritual"
       ]
     },
     {

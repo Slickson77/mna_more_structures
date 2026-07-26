@@ -2,11 +2,14 @@
   "replace": false,
   "values": [
     "mna_more_structures:faction/council_accident_1",
+    "mna_more_structures:faction/council_tower_sky",
     "mna_more_structures:faction/demon_foothold_1",
     "mna_more_structures:faction/demon_foothold_2",
     "mna_more_structures:faction/demon_refuge_1",
     "mna_more_structures:faction/undead_grasp",
     "mna_more_structures:faction/undead_iceflow_tower_1",
+    "mna_more_structures:faction/undead_iceflow_tower_2",
+    "mna_more_structures:faction/undead_inverted_tower_1",
     "mna_more_structures:faction/undead_skull_hut_1",
     "mna_more_structures:scatter/birch_magic_stump_1",
     "mna_more_structures:scatter/birch_magic_stump_2",
@@ -20,6 +23,14 @@
     "mna_more_structures:scatter/spruce_magic_stump_2",
     "mna_more_structures:scatter/witchy_hat_house_1",
     "mna_more_structures:scatter/witchy_hat_house_2",
-    "mna_more_structures:scatter/witchy_hat_library_1"
+    "mna_more_structures:scatter/witchy_hat_library_1",
+    "mna_more_structures:ritual/air_cloud_1",
+    "mna_more_structures:ritual/air_cloud_2",
+    "mna_more_structures:ritual/air_raincloud_1",
+    "mna_more_structures:ritual/earth_ritual",
+    "mna_more_structures:ritual/ender_ritual",
+    "mna_more_structures:ritual/fire_ritual_1",
+    "mna_more_structures:ritual/fire_ritual_2",
+    "mna_more_structures:ritual/water_ritual"
   ]
 }

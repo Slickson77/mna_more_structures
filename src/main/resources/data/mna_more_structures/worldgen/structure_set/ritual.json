@@ -19,12 +19,24 @@
 		{
 			"structure": "mna_more_structures:ritual/fire_ritual_2",
 			"weight": 1
+		},
+		{
+			"structure": "mna_more_structures:ritual/water_ritual",
+			"weight": 1
+		},
+		{
+			"structure": "mna_more_structures:ritual/ender_ritual",
+			"weight": 1
+		},
+		{
+			"structure": "mna_more_structures:ritual/earth_ritual",
+			"weight": 1
 		}
 	],
 	"placement": {
 		"type": "minecraft:random_spread",
-		"spacing": 70,
-		"separation": 20,
+		"spacing": 80,
+		"separation": 60,
 		"salt": 8722187
 	}
 }

@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "mna_more_structures:ritual/air_cloud_1",
+    "mna_more_structures:ritual/air_cloud_2",
+    "mna_more_structures:ritual/air_raincloud_1",
+    "mna_more_structures:ritual/earth_ritual",
+    "mna_more_structures:ritual/ender_ritual",
+    "mna_more_structures:ritual/fire_ritual_1",
+    "mna_more_structures:ritual/fire_ritual_2",
+    "mna_more_structures:ritual/water_ritual"
+  ]
+}
