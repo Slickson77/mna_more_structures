@@ -1,0 +1,42 @@
+{
+  "type": "lithostitched:add_template_pool_elements",
+  "predicate": {
+    "type": "lithostitched:all_of",
+    "predicates": [
+      {
+        "type": "lithostitched:mod_loaded",
+        "mod_id": "magichem"
+      }
+    ]
+  },
+  "template_pools": "mna_more_structures:villages/council/buildings/square9",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square9_1"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square9_2"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square9_3"
+      }
+    }
+  ]
+}

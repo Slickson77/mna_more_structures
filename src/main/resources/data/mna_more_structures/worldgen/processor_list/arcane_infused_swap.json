@@ -1,0 +1,146 @@
+{
+  "processors": [
+    {
+      "processor_type": "lithostitched:apply_random",
+      "mode": "per_piece",
+      "processor_lists": [
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "mna:decoration/emerald_arcane_stone_chiseled": "mna:decoration/emerald_arcane_stone_chiseled",
+                "mna:decoration/emerald_arcane_stone_wall": "mna:decoration/emerald_arcane_stone_wall",
+                "mna:decoration/emerald_arcane_stone_straight": "mna:decoration/emerald_arcane_stone_straight",
+                "mna:decoration/emerald_arcane_stone_pillar": "mna:decoration/emerald_arcane_stone_pillar",
+                "mna:decoration/emerald_arcane_stone_corner": "mna:decoration/emerald_arcane_stone_corner",
+                "mna:decoration/runic_glass_green": "mna:decoration/runic_glass_green",
+                "minecraft:emerald_block": "minecraft:emerald_block"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "mna:decoration/emerald_arcane_stone_chiseled": "mna:decoration/vinteum_arcane_stone_chiseled",
+                "mna:decoration/emerald_arcane_stone_wall": "mna:decoration/vinteum_arcane_stone_wall",
+                "mna:decoration/emerald_arcane_stone_straight": "mna:decoration/vinteum_arcane_stone_straight",
+                "mna:decoration/emerald_arcane_stone_pillar": "mna:decoration/vinteum_arcane_stone_pillar",
+                "mna:decoration/emerald_arcane_stone_corner": "mna:decoration/vinteum_arcane_stone_corner",
+                "mna:decoration/runic_glass_green": "mna:decoration/runic_glass_blue",
+                "minecraft:emerald_block": "mna:vinteum_block"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "mna:decoration/emerald_arcane_stone_chiseled": "mna:decoration/redstone_arcane_stone_chiseled",
+                "mna:decoration/emerald_arcane_stone_wall": "mna:decoration/redstone_arcane_stone_wall",
+                "mna:decoration/emerald_arcane_stone_straight": "mna:decoration/redstone_arcane_stone_straight",
+                "mna:decoration/emerald_arcane_stone_pillar": "mna:decoration/redstone_arcane_stone_pillar",
+                "mna:decoration/emerald_arcane_stone_corner": "mna:decoration/redstone_arcane_stone_corner",
+                "mna:decoration/runic_glass_green": "mna:decoration/runic_glass_red",
+                "minecraft:emerald_block": "minecraft:redstone_block"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "mna:decoration/emerald_arcane_stone_chiseled": "mna:decoration/amethyst_arcane_stone_chiseled",
+                "mna:decoration/emerald_arcane_stone_wall": "mna:decoration/amethyst_arcane_stone_wall",
+                "mna:decoration/emerald_arcane_stone_straight": "mna:decoration/amethyst_arcane_stone_straight",
+                "mna:decoration/emerald_arcane_stone_pillar": "mna:decoration/amethyst_arcane_stone_pillar",
+                "mna:decoration/emerald_arcane_stone_corner": "mna:decoration/amethyst_arcane_stone_corner",
+                "mna:decoration/runic_glass_green": "mna:decoration/runic_glass_purple",
+                "minecraft:emerald_block": "minecraft:amethyst_block"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "mna:decoration/emerald_arcane_stone_chiseled": "mna:decoration/gold_arcane_stone_chiseled",
+                "mna:decoration/emerald_arcane_stone_wall": "mna:decoration/gold_arcane_stone_wall",
+                "mna:decoration/emerald_arcane_stone_straight": "mna:decoration/gold_arcane_stone_straight",
+                "mna:decoration/emerald_arcane_stone_pillar": "mna:decoration/gold_arcane_stone_pillar",
+                "mna:decoration/emerald_arcane_stone_corner": "mna:decoration/gold_arcane_stone_corner",
+                "mna:decoration/runic_glass_green": "mna:decoration/runic_glass_yellow",
+                "minecraft:emerald_block": "minecraft:gold_block"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "mna:decoration/emerald_arcane_stone_chiseled": "mna:decoration/quicksilver_arcane_stone_chiseled",
+                "mna:decoration/emerald_arcane_stone_wall": "mna:decoration/quicksilver_arcane_stone_wall",
+                "mna:decoration/emerald_arcane_stone_straight": "mna:decoration/quicksilver_arcane_stone_straight",
+                "mna:decoration/emerald_arcane_stone_pillar": "mna:decoration/quicksilver_arcane_stone_pillar",
+                "mna:decoration/emerald_arcane_stone_corner": "mna:decoration/quicksilver_arcane_stone_corner",
+                "mna:decoration/runic_glass_green": "mna:decoration/runic_glass_light_grey",
+                "minecraft:emerald_block": "minecraft:quicksilver_block"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "mna:decoration/emerald_arcane_stone_chiseled": "mna:decoration/copper_arcane_stone_chiseled",
+                "mna:decoration/emerald_arcane_stone_wall": "mna:decoration/copper_arcane_stone_wall",
+                "mna:decoration/emerald_arcane_stone_straight": "mna:decoration/copper_arcane_stone_straight",
+                "mna:decoration/emerald_arcane_stone_pillar": "mna:decoration/copper_arcane_stone_pillar",
+                "mna:decoration/emerald_arcane_stone_corner": "mna:decoration/copper_arcane_stone_corner",
+                "mna:decoration/runic_glass_green": "mna:decoration/runic_glass_orange",
+                "minecraft:emerald_block": "minecraft:copper_block"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "mna:decoration/emerald_arcane_stone_chiseled": "mna:decoration/diamond_arcane_stone_chiseled",
+                "mna:decoration/emerald_arcane_stone_wall": "mna:decoration/diamond_arcane_stone_wall",
+                "mna:decoration/emerald_arcane_stone_straight": "mna:decoration/diamond_arcane_stone_straight",
+                "mna:decoration/emerald_arcane_stone_pillar": "mna:decoration/diamond_arcane_stone_pillar",
+                "mna:decoration/emerald_arcane_stone_corner": "mna:decoration/diamond_arcane_stone_corner",
+                "mna:decoration/runic_glass_green": "mna:decoration/runic_glass_light_blue",
+                "minecraft:emerald_block": "minecraft:diamond_block"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

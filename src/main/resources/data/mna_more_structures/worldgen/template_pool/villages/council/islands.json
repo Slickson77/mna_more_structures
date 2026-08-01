@@ -1,0 +1,251 @@
+{
+  "name": "mna_more_structures:villages/council/islands",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/council/islands/chalice",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/council/islands/council_tower_sky",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/cross1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/cross2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "lithostitched:guaranteed",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/council/islands/cross3",
+          "processors": "minecraft:empty"
+        },
+        "count": 1
+      }
+    },
+    /*{
+      "weight": 2,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/cross3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },*/
+    {
+      "weight": 2,
+      "element": {
+        "element_type": "lithostitched:guaranteed",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/council/islands/cross4",
+          "processors": "minecraft:empty"
+        },
+        "count": 1
+      }
+    },
+    /*{
+      "weight": 2,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/cross4",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },*/
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/end1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/council/islands/end2",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/end3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/end4",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/end5",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/end6",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/end7",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/council/islands/geode",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/council/islands/sword",
+          "processors": "mna_more_structures:arcane_infused_swap"
+        },
+        "limit": 1
+      }
+    },
+
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/t1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/t2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/t3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/turn1",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/turn2",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/turn3",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/islands/turn4",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

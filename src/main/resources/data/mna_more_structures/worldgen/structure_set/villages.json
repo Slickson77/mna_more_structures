@@ -1,0 +1,17 @@
+{
+	"placement": {
+		"type": "minecraft:random_spread",
+		"spread_type": "linear",
+		"salt": 8762187,
+		"separation": 120,
+		"spacing": 140,
+		"frequency_reduction_method": "default",
+		"frequency": 0.6
+	},
+	"structures": [
+		{
+			"structure": "mna_more_structures:villages/council",
+			"weight": 1
+		}
+	]
+}
