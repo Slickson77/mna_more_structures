@@ -1,0 +1,186 @@
+{
+  "processors": [
+    {
+      "processor_type": "lithostitched:apply_random",
+      "mode": "per_piece",
+      "processor_lists": [
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:black_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:blue_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:brown_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:cyan_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:gray_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:green_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:light_blue_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:light_gray_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:lime_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:magenta_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:orange_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:pink_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:purple_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:red_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:white_candle"
+              }
+            }
+          ]
+        },
+        {
+          "weight": 10,
+          "data": [
+            {
+              "processor_type": "lithostitched:block_swap",
+              "blocks": {
+                "minecraft:candle": "minecraft:yellow_candle"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

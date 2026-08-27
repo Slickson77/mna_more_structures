@@ -12,6 +12,10 @@
 		{
 			"structure": "mna_more_structures:villages/council",
 			"weight": 1
+		},
+		{
+			"structure": "mna_more_structures:villages/undead",
+			"weight": 1
 		}
 	]
 }

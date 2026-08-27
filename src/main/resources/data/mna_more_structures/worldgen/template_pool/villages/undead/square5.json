@@ -1,0 +1,201 @@
+{
+  "name": "mna_more_structures:villages/undead/square5",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/2",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/3",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/4",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/5",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/6",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/7",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/8",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/9",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/10",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/11",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/12",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/13",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/14",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/square5/15",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    }
+  ]
+}

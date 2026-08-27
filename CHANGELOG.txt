@@ -1,0 +1,10 @@
+1.20.1-2.1
+-Added structure tag for fairy logs
+-fixed missing loot chest in Council accident
+-fixed crashing for oak_magic stumps
+-Added 12 more buildings to council village
+-Added 2 forgotten cantrip council village mod compatibility (old wizard has persistent tag ... maybe it works)
+-Added 8 more Magichem buildings to council village compatibility
+-Altered ender ritual structure
+-Added a variety of unbreakable blocks (why would I do that?)
+-Added undead catacombs, I mean village... or maybe both.

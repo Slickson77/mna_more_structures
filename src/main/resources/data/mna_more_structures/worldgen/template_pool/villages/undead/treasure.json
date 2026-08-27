@@ -1,0 +1,136 @@
+{
+  "name": "mna_more_structures:villages/undead/treasure",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/treasure/amethyst1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/treasure/copper1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/treasure/emerald1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/treasure/gold1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/treasure/gold2",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/treasure/iron1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/treasure/iron2",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/treasure/lapis1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/treasure/mix1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/poi/treasure/netherite1",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    }
+  ]
+}

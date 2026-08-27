@@ -1,0 +1,500 @@
+{
+  "name": "mna_more_structures:villages/undead/lights",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/1c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/2c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/3c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/4c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/5c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/6c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/7c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/8c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/9c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/10c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/11c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/12c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/13c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/14c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/15c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/16c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/17c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/18c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/19c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/20c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/21c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/22c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/23c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/24c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/25c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/26c",
+          "processors": "mna_more_structures:candle_swap",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/27",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/28",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/29",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/30",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/31",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/32",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/33",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/34",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/35",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/36",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/37",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/deco/lights/38",
+          "processors": "minecraft:empty",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    }
+  ]
+}

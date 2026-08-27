@@ -1,0 +1,153 @@
+{
+  "type": "lithostitched:add_template_pool_elements",
+  "predicate": {
+    "type": "lithostitched:all_of",
+    "predicates": [
+      {
+        "type": "lithostitched:mod_loaded",
+        "mod_id": "magichem"
+      }
+    ]
+  },
+  "template_pools": "mna_more_structures:villages/council/buildings/square11",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_1"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_1_2"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_2"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_2_2"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_3"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_3_2"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_4"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_4_2"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_5"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_5_2"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_6"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_6_2"
+      }
+    },{
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_7"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_7_2"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_8"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:village_council_houses",
+        "location":"mna_more_structures:villages/council/buildings/magichem/square11_8_2"
+      }
+    }
+  ]
+}

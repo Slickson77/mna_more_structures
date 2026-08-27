@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mna_more_structures:block/protected_mossy_cobblestone_slab"
+    },
+    "type=double": {
+      "model": "mna_more_structures:block/protected_mossy_cobblestone"
+    },
+    "type=top": {
+      "model": "mna_more_structures:block/protected_mossy_cobblestone_slab_top"
+    }
+  }
+}

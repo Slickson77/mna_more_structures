@@ -1,0 +1,19 @@
+{
+  "name": "mna_more_structures:villages/undead/cavern",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/undead/maze/town_entrance",
+          "processors": "minecraft:empty"
+        },
+        "override_terrain_adaption": "none"
+      }
+    }
+  ]
+}

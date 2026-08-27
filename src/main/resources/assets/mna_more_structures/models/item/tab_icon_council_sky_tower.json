@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "mna_more_structures:item/council_sky_tower_icon"
+  }
+}

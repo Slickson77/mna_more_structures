@@ -1,0 +1,189 @@
+{
+  "name": "mna_more_structures:villages/undead/spawner",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "lithostitched:limited",
+          "delegate": {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "mna_more_structures:villages/undead/poi/spawner/cave_spider",
+            "processors": "minecraft:empty"
+          },
+          "limit": 1
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "lithostitched:limited",
+          "delegate": {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "mna_more_structures:villages/undead/poi/spawner/skeleton",
+            "processors": "minecraft:empty"
+          },
+          "limit": 1
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "lithostitched:limited",
+          "delegate": {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "mna_more_structures:villages/undead/poi/spawner/skeleton_horse",
+            "processors": "minecraft:empty"
+          },
+          "limit": 1
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "lithostitched:limited",
+          "delegate": {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "mna_more_structures:villages/undead/poi/spawner/skeleton2",
+            "processors": "minecraft:empty"
+          },
+          "limit": 1
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "lithostitched:limited",
+          "delegate": {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "mna_more_structures:villages/undead/poi/spawner/skeleton3",
+            "processors": "minecraft:empty"
+          },
+          "limit": 1
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "lithostitched:limited",
+          "delegate": {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "mna_more_structures:villages/undead/poi/spawner/skeleton4",
+            "processors": "minecraft:empty"
+          },
+          "limit": 1
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "lithostitched:limited",
+          "delegate": {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "mna_more_structures:villages/undead/poi/spawner/spider",
+            "processors": "minecraft:empty"
+          },
+          "limit": 1
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "lithostitched:limited",
+          "delegate": {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "mna_more_structures:villages/undead/poi/spawner/stray",
+            "processors": "minecraft:empty"
+          },
+          "limit": 1
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "lithostitched:limited",
+          "delegate": {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "mna_more_structures:villages/undead/poi/spawner/wither_skeleton",
+            "processors": "minecraft:empty"
+          },
+          "limit": 1
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "lithostitched:limited",
+          "delegate": {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "mna_more_structures:villages/undead/poi/spawner/zombie",
+            "processors": "minecraft:empty"
+          },
+          "limit": 1
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/undead/poi/spawner/zombie_villager",
+          "processors": "minecraft:empty"
+        },
+        "override_terrain_adaption": "none"
+      }
+    }
+  ]
+}

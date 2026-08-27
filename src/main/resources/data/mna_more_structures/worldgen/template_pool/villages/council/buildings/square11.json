@@ -23,6 +23,15 @@
     {
       "weight": 1,
       "element": {
+        "location": "mna_more_structures:villages/council/buildings/square11_1_3",
+        "processors": "mna_more_structures:village_council_houses",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
         "location": "mna_more_structures:villages/council/buildings/square11_2",
         "processors": "mna_more_structures:village_council_houses",
         "projection": "rigid",
@@ -33,6 +42,15 @@
       "weight": 1,
       "element": {
         "location": "mna_more_structures:villages/council/buildings/square11_2_2",
+        "processors": "mna_more_structures:village_council_houses",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/buildings/square11_2_3",
         "processors": "mna_more_structures:village_council_houses",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -59,6 +77,15 @@
     {
       "weight": 1,
       "element": {
+        "location": "mna_more_structures:villages/council/buildings/square11_3_3",
+        "processors": "mna_more_structures:village_council_houses",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
         "location": "mna_more_structures:villages/council/buildings/square11_4",
         "processors": "mna_more_structures:village_council_houses",
         "projection": "rigid",
@@ -69,6 +96,15 @@
       "weight": 1,
       "element": {
         "location": "mna_more_structures:villages/council/buildings/square11_4_2",
+        "processors": "mna_more_structures:village_council_houses",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/buildings/square11_4_3",
         "processors": "mna_more_structures:village_council_houses",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -95,6 +131,15 @@
     {
       "weight": 1,
       "element": {
+        "location": "mna_more_structures:villages/council/buildings/square11_5_3",
+        "processors": "mna_more_structures:village_council_houses",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
         "location": "mna_more_structures:villages/council/buildings/square11_6",
         "processors": "mna_more_structures:village_council_houses",
         "projection": "rigid",
@@ -105,6 +150,15 @@
       "weight": 1,
       "element": {
         "location": "mna_more_structures:villages/council/buildings/square11_6_2",
+        "processors": "mna_more_structures:village_council_houses",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/buildings/square11_6_3",
         "processors": "mna_more_structures:village_council_houses",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
@@ -131,6 +185,15 @@
     {
       "weight": 1,
       "element": {
+        "location": "mna_more_structures:villages/council/buildings/square11_7_3",
+        "processors": "mna_more_structures:village_council_houses",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
         "location": "mna_more_structures:villages/council/buildings/square11_8",
         "processors": "mna_more_structures:village_council_houses",
         "projection": "rigid",
@@ -141,6 +204,15 @@
       "weight": 1,
       "element": {
         "location": "mna_more_structures:villages/council/buildings/square11_8_2",
+        "processors": "mna_more_structures:village_council_houses",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/council/buildings/square11_8_3",
         "processors": "mna_more_structures:village_council_houses",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"

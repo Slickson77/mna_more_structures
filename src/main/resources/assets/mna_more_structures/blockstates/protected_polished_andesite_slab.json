@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mna_more_structures:block/protected_polished_andesite_slab"
+    },
+    "type=double": {
+      "model": "mna_more_structures:block/protected_polished_andesite"
+    },
+    "type=top": {
+      "model": "mna_more_structures:block/protected_polished_andesite_slab_top"
+    }
+  }
+}

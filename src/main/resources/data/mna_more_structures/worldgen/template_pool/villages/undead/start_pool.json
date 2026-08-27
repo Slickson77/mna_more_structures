@@ -1,0 +1,15 @@
+{
+  "name": "mna_more_structures:villages/undead/start_pool",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:villages/undead/centers/well",
+        "processors": "mna_more_structures:village_council_houses",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

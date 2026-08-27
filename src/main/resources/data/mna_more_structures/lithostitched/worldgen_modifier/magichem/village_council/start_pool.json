@@ -1,0 +1,33 @@
+{
+  "type": "lithostitched:add_template_pool_elements",
+  "predicate": {
+    "type": "lithostitched:all_of",
+    "predicates": [
+      {
+        "type": "lithostitched:mod_loaded",
+        "mod_id": "magichem"
+      }
+    ]
+  },
+  "template_pools": "mna_more_structures:villages/council/start_pool",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "processors": "mna_more_structures:arcane_infused_swap",
+        "location":"mna_more_structures:villages/council/centers/magichem/bleached_amethyst"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "location":"mna_more_structures:villages/council/centers/magichem/bleached_amethyst_2",
+        "processors": "mna_more_structures:arcane_infused_swap",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

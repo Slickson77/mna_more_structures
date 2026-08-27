@@ -1,0 +1,19 @@
+{
+  "name": "mna_more_structures:villages/undead/cathedral_under",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/undead/centers/cathedral_under_1",
+          "processors": "mna_more_structures:village_undead_maze"
+        },
+        "override_terrain_adaption": "none"
+      }
+    }
+  ]
+}

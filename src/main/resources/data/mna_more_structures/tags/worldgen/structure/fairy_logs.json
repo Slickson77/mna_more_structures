@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "mna_more_structures:scatter/oak_magic_stump_1",
+    "mna_more_structures:scatter/oak_magic_stump_2",
+    "mna_more_structures:scatter/oak_magic_stump_3",
+    "mna_more_structures:scatter/oak_magic_stump_4",
+    "mna_more_structures:scatter/spruce_magic_stump_1",
+    "mna_more_structures:scatter/spruce_magic_stump_2",
+    "mna_more_structures:scatter/darkoak_magic_stump_1",
+    "mna_more_structures:scatter/darkoak_magic_stump_2",
+    "mna_more_structures:scatter/birch_magic_stump_1",
+    "mna_more_structures:scatter/birch_magic_stump_1"
+  ]
+}

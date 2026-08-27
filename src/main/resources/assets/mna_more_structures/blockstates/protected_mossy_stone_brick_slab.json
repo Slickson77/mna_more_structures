@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "mna_more_structures:block/protected_mossy_stone_brick_slab"
+    },
+    "type=double": {
+      "model": "mna_more_structures:block/protected_mossy_stone_bricks"
+    },
+    "type=top": {
+      "model": "mna_more_structures:block/protected_mossy_stone_brick_slab_top"
+    }
+  }
+}

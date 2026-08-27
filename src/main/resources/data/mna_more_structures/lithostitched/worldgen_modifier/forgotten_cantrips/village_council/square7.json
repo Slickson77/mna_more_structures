@@ -1,0 +1,40 @@
+{
+  "type": "lithostitched:add_template_pool_elements",
+  "predicate": {
+    "type": "lithostitched:all_of",
+    "predicates": [
+      {
+        "type": "lithostitched:mod_loaded",
+        "mod_id": "forgotten_cantrips"
+      }
+    ]
+  },
+  "template_pools": "mna_more_structures:villages/council/buildings/square7",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:list_pool_element",
+          "projection": "rigid",
+          "elements": [
+            {
+              "element_type": "minecraft:single_pool_element",
+              "projection": "rigid",
+              "location": "mna_more_structures:villages/council/buildings/forgotten_cantrips/square7_1",
+              "processors": "mna_more_structures:village_council_houses"
+            },
+            {
+              "element_type": "minecraft:single_pool_element",
+              "projection": "rigid",
+              "location": "mna_more_structures:villages/council/buildings/forgotten_cantrips/square7_2",
+              "processors": "mna_more_structures:village_council_houses"
+            }
+          ]
+        },
+        "limit": 1
+      }
+    }
+  ]
+}

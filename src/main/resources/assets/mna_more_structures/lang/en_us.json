@@ -4,5 +4,25 @@
   "painting.mna_more_structures.malus.title": "Magic Hammer",
   "painting.mna_more_structures.malus.author": "Mithion",
   "painting.mna_more_structures.council_sky_tower.title": "Wizard sky tower",
-  "painting.mna_more_structures.council_sky_tower.author": "Draeval"
+  "painting.mna_more_structures.council_sky_tower.author": "Draeval",
+
+  "block.mna_more_structures.protected_chiseled_stone_bricks": "Unbreakable Chiseled Stone Brick",
+  "block.mna_more_structures.protected_cobblestone": "Unbreakable Cobblestone",
+  "block.mna_more_structures.protected_cracked_stone_bricks": "Unbreakable Cracked Stone Bricks",
+  "block.mna_more_structures.protected_iron_bars": "Unbreakable Iron Bars",
+  "block.mna_more_structures.protected_mossy_cobblestone": "Unbreakable Mossy Cobblestone",
+  "block.mna_more_structures.protected_mossy_cobblestone_slab": "Unbreakable Mossy Cobblestone Slab",
+  "block.mna_more_structures.protected_mossy_cobblestone_stairs": "Unbreakable Mossy Cobblestone Stairs",
+  "block.mna_more_structures.protected_mossy_stone_brick_slab": "Unbreakable Mossy Stone Brick Slab",
+  "block.mna_more_structures.protected_mossy_stone_brick_stairs": "Unbreakable Mossy Stone Brick Stairs",
+  "block.mna_more_structures.protected_mossy_stone_bricks": "Unbreakable Mossy Stone Bricks",
+  "block.mna_more_structures.protected_polished_andesite": "Unbreakable Polished Andesite",
+  "block.mna_more_structures.protected_polished_andesite_slab": "Unbreakable Polished Andesite Slab",
+  "block.mna_more_structures.protected_polished_andesite_stairs": "Unbreakable Polished Andesite Stairs",
+  "block.mna_more_structures.protected_stone": "Unbreakable Stone",
+  "block.mna_more_structures.protected_stone_brick_slab": "Unbreakable Stone Brick Slab",
+  "block.mna_more_structures.protected_stone_brick_stairs": "Unbreakable Stone Brick Stairs",
+  "block.mna_more_structures.protected_stone_bricks": "Unbreakable Stone Bricks",
+
+  "creativetab.mna_more_structures.protected_blocks": "MnA More Structures"
 }

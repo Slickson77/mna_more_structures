@@ -1,0 +1,298 @@
+{
+  "name": "mna_more_structures:villages/undead/maze",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/undead/maze/1",
+          "processors": "mna_more_structures:village_undead_maze"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/3",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/4",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/5",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/6",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/7",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/8",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/9",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/10",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/11",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/12",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/13",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/14",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/15",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/16",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/17",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "location": "mna_more_structures:villages/undead/maze/18",
+          "processors": "mna_more_structures:village_undead_maze",
+          "projection": "rigid",
+          "element_type": "minecraft:single_pool_element"
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 10,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "lithostitched:limited",
+          "delegate": {
+            "element_type": "minecraft:single_pool_element",
+            "projection": "rigid",
+            "location": "mna_more_structures:villages/undead/maze/nether_portal",
+            "processors": "minecraft:empty"
+          },
+          "limit": 1
+        },
+        "override_terrain_adaption": "none"
+      }
+    },
+    {
+      "weight": 100,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "lithostitched:guaranteed",
+          "delegate": {
+            "element_type": "minecraft:list_pool_element",
+            "projection": "rigid",
+            "elements": [
+              {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "mna_more_structures:villages/undead/maze/2",
+                "processors": "mna_more_structures:village_undead_maze"
+              },
+              {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "mna_more_structures:villages/undead/maze/2_2",
+                "processors": "mna_more_structures:village_undead_maze"
+              },
+              {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "mna_more_structures:villages/undead/maze/2_3",
+                "processors": "mna_more_structures:village_undead_maze"
+              },
+              {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "mna_more_structures:villages/undead/maze/2_4",
+                "processors": "mna_more_structures:village_undead_maze"
+              },
+              {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "mna_more_structures:villages/undead/maze/2_5",
+                "processors": "mna_more_structures:village_undead_maze"
+              },
+              {
+                "element_type": "minecraft:single_pool_element",
+                "projection": "rigid",
+                "location": "mna_more_structures:villages/undead/maze/2_6",
+                "processors": "mna_more_structures:village_undead_maze"
+              }
+            ]
+          },
+          "count": 1
+        },
+        "override_terrain_adaption": "none",
+        "max_count": 1
+      }
+    }
+  ]
+}
