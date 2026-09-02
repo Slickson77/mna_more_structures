@@ -1,0 +1,56 @@
+{
+"type": "lithostitched:set_structure_spawn_condition",
+"structures": "mna_more_structures:villages/undead",
+"spawn_condition": {
+"type": "lithostitched:all_of",
+"conditions": [
+  {
+    "type": "lithostitched:height_filter",
+    "range_type": "heightmap_relative",
+    "heightmap": "OCEAN_FLOOR_WG",
+    "permitted_range": [-2, 2]
+  },
+{
+"type": "lithostitched:offset",
+"offset": [16, 0, 0],
+"condition": {
+"type": "lithostitched:height_filter",
+"range_type": "heightmap_relative",
+"heightmap": "WORLD_SURFACE_WG",
+"permitted_range": [-4, 4]
+}
+},
+{
+"type": "lithostitched:offset",
+"offset": [-16, 0, 0],
+"condition": {
+"type": "lithostitched:height_filter",
+"range_type": "heightmap_relative",
+"heightmap": "WORLD_SURFACE_WG",
+"permitted_range": [-4, 4]
+}
+},
+{
+"type": "lithostitched:offset",
+"offset": [0, 0, 16],
+"condition": {
+"type": "lithostitched:height_filter",
+"range_type": "heightmap_relative",
+"heightmap": "WORLD_SURFACE_WG",
+"permitted_range": [-4, 4]
+}
+},
+{
+"type": "lithostitched:offset",
+"offset": [0, 0, -16],
+"condition": {
+"type": "lithostitched:height_filter",
+"range_type": "heightmap_relative",
+"heightmap": "WORLD_SURFACE_WG",
+"permitted_range": [-4, 4]
+}
+}
+]
+},
+"append": true
+}
