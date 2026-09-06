@@ -81,32 +81,16 @@
       }
     },
     {
-      "weight": 10,
+      "weight": 7,
       "element": {
-        "element_type": "lithostitched:delegating",
+        "element_type": "lithostitched:limited",
         "delegate": {
-          "element_type": "lithostitched:limited",
-          "delegate": {
-            "element_type": "minecraft:list_pool_element",
-            "projection": "rigid",
-            "elements": [
-              {
-                "element_type": "minecraft:single_pool_element",
-                "projection": "rigid",
-                "location": "mna_more_structures:villages/undead/poi/rooms/end_portal_lit",
-                "processors": "minecraft:empty"
-              },
-              {
-                "element_type": "minecraft:single_pool_element",
-                "projection": "rigid",
-                "location": "mna_more_structures:villages/undead/poi/rooms/end_portal_unlit",
-                "processors": "minecraft:empty"
-              }
-            ]
-          },
-          "limit": 1
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/undead/poi/rooms/end_portal",
+          "processors": "minecraft:empty"
         },
-        "override_terrain_adaption": "none"
+        "limit": 1
       }
     },
     {
