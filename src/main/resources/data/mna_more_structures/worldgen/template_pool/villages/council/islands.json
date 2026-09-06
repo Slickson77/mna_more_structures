@@ -59,15 +59,6 @@
         "count": 1
       }
     },
-    /*{
-      "weight": 2,
-      "element": {
-        "location": "mna_more_structures:villages/council/islands/cross3",
-        "processors": "minecraft:empty",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },*/
     {
       "weight": 2,
       "element": {
@@ -81,15 +72,6 @@
         "count": 1
       }
     },
-    /*{
-      "weight": 2,
-      "element": {
-        "location": "mna_more_structures:villages/council/islands/cross4",
-        "processors": "minecraft:empty",
-        "projection": "rigid",
-        "element_type": "minecraft:single_pool_element"
-      }
-    },*/
     {
       "weight": 1,
       "element": {
@@ -183,7 +165,6 @@
         "limit": 1
       }
     },
-
     {
       "weight": 1,
       "element": {
