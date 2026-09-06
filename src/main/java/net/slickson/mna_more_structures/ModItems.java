@@ -26,6 +26,12 @@ public class ModItems {
     public static final RegistryObject<Item> PROTECTED_STONE =
             ITEMS.register("protected_stone", () -> new BlockItem(ModBlocks.PROTECTED_STONE.get(), new Item.Properties()));
 
+    public static final RegistryObject<Item> PROTECTED_STONE_SLAB =
+            ITEMS.register("protected_stone_slab", () -> new BlockItem(ModBlocks.PROTECTED_STONE_SLAB.get(), new Item.Properties()));
+
+    public static final RegistryObject<Item> PROTECTED_STONE_STAIRS =
+            ITEMS.register("protected_stone_stairs", () -> new BlockItem(ModBlocks.PROTECTED_STONE_STAIRS.get(), new Item.Properties()));
+
     public static final RegistryObject<Item> PROTECTED_COBBLESTONE =
             ITEMS.register("protected_cobblestone", () -> new BlockItem(ModBlocks.PROTECTED_COBBLESTONE.get(), new Item.Properties()));
 

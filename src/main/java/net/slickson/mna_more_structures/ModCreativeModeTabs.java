@@ -3,7 +3,6 @@ package net.slickson.mna_more_structures;
 import net.minecraft.core.registries.Registries;
 import net.minecraft.network.chat.Component;
 import net.minecraft.world.item.CreativeModeTab;
-import net.minecraft.world.item.CreativeModeTabs;
 import net.minecraft.world.item.ItemStack;
 import net.minecraftforge.eventbus.api.IEventBus;
 import net.minecraftforge.registries.DeferredRegister;
@@ -34,6 +33,8 @@ public class ModCreativeModeTabs {
                         output.accept(PROTECTED_POLISHED_ANDESITE_SLAB.get());
                         output.accept(PROTECTED_POLISHED_ANDESITE_STAIRS.get());
                         output.accept(PROTECTED_STONE.get());
+                        output.accept(PROTECTED_STONE_SLAB.get());
+                        output.accept(PROTECTED_STONE_STAIRS.get());
                         output.accept(PROTECTED_STONE_BRICK_SLAB.get());
                         output.accept(PROTECTED_STONE_BRICK_STAIRS.get());
                         output.accept(PROTECTED_STONE_BRICKS.get());

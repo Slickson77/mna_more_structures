@@ -1,6 +1,5 @@
 package net.slickson.mna_more_structures;
 
-import net.minecraft.resources.ResourceLocation;
 import net.minecraft.world.level.block.*;
 import net.minecraft.world.level.block.state.BlockBehaviour;
 import net.minecraftforge.registries.DeferredRegister;
@@ -57,6 +56,10 @@ public class ModBlocks {
             () -> new StairBlock(() -> PROTECTED_MOSSY_COBBLESTONE.get().defaultBlockState(),
                     indestructible(BlockBehaviour.Properties.copy(Blocks.MOSSY_COBBLESTONE_STAIRS))));
 
+    public static final RegistryObject<Block> PROTECTED_STONE_STAIRS = BLOCKS.register("protected_stone_stairs",
+            () -> new StairBlock(() -> PROTECTED_STONE.get().defaultBlockState(),
+                    indestructible(BlockBehaviour.Properties.copy(Blocks.STONE_STAIRS))));
+
     // ---- Slabs ----
     public static final RegistryObject<Block> PROTECTED_STONE_BRICK_SLAB = BLOCKS.register("protected_stone_brick_slab",
             () -> new SlabBlock(indestructible(BlockBehaviour.Properties.copy(Blocks.STONE_BRICK_SLAB))));
@@ -69,6 +72,9 @@ public class ModBlocks {
 
     public static final RegistryObject<Block> PROTECTED_MOSSY_COBBLESTONE_SLAB = BLOCKS.register("protected_mossy_cobblestone_slab",
             () -> new SlabBlock(indestructible(BlockBehaviour.Properties.copy(Blocks.MOSSY_COBBLESTONE_SLAB))));
+
+    public static final RegistryObject<Block> PROTECTED_STONE_SLAB = BLOCKS.register("protected_stone_slab",
+            () -> new SlabBlock(indestructible(BlockBehaviour.Properties.copy(Blocks.STONE_SLAB))));
 
     // ---- Iron bars ----
     public static final RegistryObject<Block> PROTECTED_IRON_BARS = BLOCKS.register("protected_iron_bars",
