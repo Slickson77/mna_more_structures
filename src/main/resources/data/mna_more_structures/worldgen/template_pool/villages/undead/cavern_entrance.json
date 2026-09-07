@@ -1,0 +1,60 @@
+{
+  "name": "mna_more_structures:villages/undead/cavern_entrance",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "mna_more_structures:villages/undead/maze/cavern-entrance/1",
+        "processors": "mna_more_structures:village_undead_maze"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "mna_more_structures:villages/undead/maze/cavern-entrance/2",
+        "processors": "mna_more_structures:village_undead_maze"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "mna_more_structures:villages/undead/maze/cavern-entrance/3",
+        "processors": "mna_more_structures:village_undead_maze"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "mna_more_structures:villages/undead/maze/cavern-entrance/4",
+        "processors": "mna_more_structures:village_undead_maze"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "mna_more_structures:villages/undead/maze/cavern-entrance/5",
+        "processors": "mna_more_structures:village_undead_maze"
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "projection": "rigid",
+        "location": "mna_more_structures:villages/undead/maze/cavern-entrance/6",
+        "processors": "mna_more_structures:village_undead_maze"
+      }
+    }
+  ]
+}

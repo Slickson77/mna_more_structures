@@ -241,57 +241,16 @@
       }
     },
     {
-      "weight": 100,
+      "weight": 1,
       "element": {
-        "element_type": "lithostitched:delegating",
+        "element_type": "lithostitched:guaranteed",
         "delegate": {
-          "element_type": "lithostitched:guaranteed",
-          "delegate": {
-            "element_type": "minecraft:list_pool_element",
-            "projection": "rigid",
-            "elements": [
-              {
-                "element_type": "minecraft:single_pool_element",
-                "projection": "rigid",
-                "location": "mna_more_structures:villages/undead/maze/2",
-                "processors": "mna_more_structures:village_undead_maze"
-              },
-              {
-                "element_type": "minecraft:single_pool_element",
-                "projection": "rigid",
-                "location": "mna_more_structures:villages/undead/maze/2_2",
-                "processors": "mna_more_structures:village_undead_maze"
-              },
-              {
-                "element_type": "minecraft:single_pool_element",
-                "projection": "rigid",
-                "location": "mna_more_structures:villages/undead/maze/2_3",
-                "processors": "mna_more_structures:village_undead_maze"
-              },
-              {
-                "element_type": "minecraft:single_pool_element",
-                "projection": "rigid",
-                "location": "mna_more_structures:villages/undead/maze/2_4",
-                "processors": "mna_more_structures:village_undead_maze"
-              },
-              {
-                "element_type": "minecraft:single_pool_element",
-                "projection": "rigid",
-                "location": "mna_more_structures:villages/undead/maze/2_5",
-                "processors": "mna_more_structures:village_undead_maze"
-              },
-              {
-                "element_type": "minecraft:single_pool_element",
-                "projection": "rigid",
-                "location": "mna_more_structures:villages/undead/maze/2_6",
-                "processors": "mna_more_structures:village_undead_maze"
-              }
-            ]
-          },
-          "count": 1
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/undead/maze/2_shell",
+          "processors": "minecraft:empty"
         },
-        "override_terrain_adaption": "none",
-        "max_count": 1
+        "count": 1
       }
     }
   ]
