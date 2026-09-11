@@ -1,0 +1,21 @@
+{
+	"placement": {
+		"type": "minecraft:random_spread",
+		"spread_type": "linear",
+		"salt": 2652186,
+		"separation": 120,
+		"spacing": 140,
+		"frequency_reduction_method": "default",
+		"frequency": 1
+	},
+	"structures": [
+		{
+			"structure": "mna_more_structures:dungeon/cathedral",
+			"weight": 1
+		},
+		{
+			"structure": "mna_more_structures:dungeon/graveyard",
+			"weight": 1
+		}
+	]
+}

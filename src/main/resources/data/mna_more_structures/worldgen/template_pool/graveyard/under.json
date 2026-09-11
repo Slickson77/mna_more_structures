@@ -1,12 +1,12 @@
 {
-  "name": "mna_more_structures:cathedral/start_pool",
+  "name": "mna_more_structures:graveyard/under",
   "fallback": "minecraft:empty",
   "elements": [
     {
       "weight": 1,
       "element": {
-        "location": "mna_more_structures:cathedral",
-        "processors": "minecraft:empty",
+        "location": "mna_more_structures:graveyard_under",
+        "processors": "mna_more_structures:village_undead_maze",
         "projection": "rigid",
         "element_type": "minecraft:single_pool_element"
       }

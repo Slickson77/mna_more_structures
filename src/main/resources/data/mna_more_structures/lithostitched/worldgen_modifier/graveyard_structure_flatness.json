@@ -1,0 +1,56 @@
+{
+"type": "lithostitched:set_structure_spawn_condition",
+"structures": "mna_more_structures:dungeon/graveyard",
+"spawn_condition": {
+"type": "lithostitched:all_of",
+"conditions": [
+  {
+    "type": "lithostitched:height_filter",
+    "range_type": "heightmap_relative",
+    "heightmap": "OCEAN_FLOOR_WG",
+    "permitted_range": [-2, 2]
+  },
+{
+"type": "lithostitched:offset",
+"offset": [20, 0, 0],
+"condition": {
+"type": "lithostitched:height_filter",
+"range_type": "heightmap_relative",
+"heightmap": "WORLD_SURFACE_WG",
+"permitted_range": [-5, 5]
+}
+},
+{
+"type": "lithostitched:offset",
+"offset": [-20, 0, 0],
+"condition": {
+"type": "lithostitched:height_filter",
+"range_type": "heightmap_relative",
+"heightmap": "WORLD_SURFACE_WG",
+"permitted_range": [-5, 5]
+}
+},
+{
+"type": "lithostitched:offset",
+"offset": [0, 0, 20],
+"condition": {
+"type": "lithostitched:height_filter",
+"range_type": "heightmap_relative",
+"heightmap": "WORLD_SURFACE_WG",
+"permitted_range": [-5, 5]
+}
+},
+{
+"type": "lithostitched:offset",
+"offset": [0, 0, -20],
+"condition": {
+"type": "lithostitched:height_filter",
+"range_type": "heightmap_relative",
+"heightmap": "WORLD_SURFACE_WG",
+"permitted_range": [-5, 5]
+}
+}
+]
+},
+"append": true
+}
