@@ -3,7 +3,7 @@ Added fay village
 All villages now spawn faction specific mobs
 fixed end portal room in undead village to generate end portal with various level of completion
 changed undead town entrance to use variants with jigsaw block
-Added Cathedral and graveyard dungeons
+Added Cathedral and graveyard dungeons - the only escape is magic ... a pickax wont help you here!
 
 
 
