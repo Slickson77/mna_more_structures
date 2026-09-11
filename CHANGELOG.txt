@@ -1,3 +1,23 @@
+1.20.1-3.0
+Added fay village
+All villages now spawn faction specific mobs
+fixed end portal room in undead village to generate end portal with various level of completion
+changed undead town entrance to use variants with jigsaw block
+Added Cathedral and graveyard dungeons
+
+
+
+
+
+1.20.1-2.2
+cristellib is now optional (if you want some configs for spawning you can download separately)
+removed some unnecessary code and added some gitnore stuff
+fixed broken amethyst not spawning in council village
+fixed processor
+
+
+
+
 1.20.1-2.1
 -Added structure tag for fairy logs
 -fixed missing loot chest in Council accident

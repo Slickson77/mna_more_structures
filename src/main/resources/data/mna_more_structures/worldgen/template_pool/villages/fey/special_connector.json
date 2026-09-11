@@ -1,0 +1,122 @@
+{
+  "name": "mna_more_structures:villages/fey/special_connector",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/frog_henge",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/ice_borrow",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/mound_maze",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/mushroom_circle_1",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/mushroom_circle_2",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/pixie_hide_away",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/pond",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/tempest",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    },    {
+      "weight": 100,
+      "element": {
+        "element_type": "lithostitched:limited",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/waterfall_cave",
+          "processors": "minecraft:empty"
+        },
+        "limit": 1
+      }
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "name": "mna_more_structures:villages/fey/statue",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/statue/bubble",
+          "processors": "minecraft:empty"
+        },
+        "allow_bounding_box_collisions": true
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/statue/flower",
+          "processors": "minecraft:empty"
+        },
+        "allow_bounding_box_collisions": true
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/statue/ice",
+          "processors": "minecraft:empty"
+        },
+        "allow_bounding_box_collisions": true
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/statue/mushroom",
+          "processors": "minecraft:empty"
+        },
+        "allow_bounding_box_collisions": true
+      }
+    },
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "lithostitched:delegating",
+        "delegate": {
+          "element_type": "minecraft:single_pool_element",
+          "projection": "rigid",
+          "location": "mna_more_structures:villages/fey/path/special/statue/pixie",
+          "processors": "minecraft:empty"
+        },
+        "allow_bounding_box_collisions": true
+      }
+    }
+  ]
+}

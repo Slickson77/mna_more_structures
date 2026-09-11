@@ -16,6 +16,10 @@
 		{
 			"structure": "mna_more_structures:villages/undead",
 			"weight": 1
+		},
+		{
+			"structure": "mna_more_structures:villages/fey",
+			"weight": 1
 		}
 	]
 }

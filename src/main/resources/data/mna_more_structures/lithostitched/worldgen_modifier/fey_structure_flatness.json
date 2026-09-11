@@ -1,0 +1,50 @@
+{
+"type": "lithostitched:set_structure_spawn_condition",
+"structures": "mna_more_structures:villages/fey",
+"spawn_condition": {
+"type": "lithostitched:all_of",
+"conditions": [
+{
+"type": "lithostitched:offset",
+"offset": [16, 0, 0],
+"condition": {
+"type": "lithostitched:height_filter",
+"range_type": "heightmap_relative",
+"heightmap": "WORLD_SURFACE_WG",
+"permitted_range": [-6, 6]
+}
+},
+{
+"type": "lithostitched:offset",
+"offset": [-16, 0, 0],
+"condition": {
+"type": "lithostitched:height_filter",
+"range_type": "heightmap_relative",
+"heightmap": "WORLD_SURFACE_WG",
+"permitted_range": [-6, 6]
+}
+},
+{
+"type": "lithostitched:offset",
+"offset": [0, 0, 16],
+"condition": {
+"type": "lithostitched:height_filter",
+"range_type": "heightmap_relative",
+"heightmap": "WORLD_SURFACE_WG",
+"permitted_range": [-6, 6]
+}
+},
+{
+"type": "lithostitched:offset",
+"offset": [0, 0, -16],
+"condition": {
+"type": "lithostitched:height_filter",
+"range_type": "heightmap_relative",
+"heightmap": "WORLD_SURFACE_WG",
+"permitted_range": [-6, 6]
+}
+}
+]
+},
+"append": true
+}

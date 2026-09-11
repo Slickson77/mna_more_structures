@@ -67,7 +67,7 @@ modId = "lithostitched"
 mandatory = true
 # This version range declares a minimum of the current minecraft version up to but not including the next major version
 versionRange = "${mod_version}"
-ordering = "BEFORE"
+ordering = "NONE"
 side = "BOTH"
 
 [[dependencies."${mod_id}"]]
@@ -75,7 +75,7 @@ modId = "mna"
 mandatory = true
 # This version range declares a minimum of the current minecraft version up to but not including the next major version
 versionRange = "${mod_version}"
-ordering = "BEFORE"
+ordering = "NONE"
 side = "BOTH"
 
 [[dependencies."${mod_id}"]]

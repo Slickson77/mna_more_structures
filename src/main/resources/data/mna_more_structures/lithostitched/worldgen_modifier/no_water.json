@@ -1,0 +1,16 @@
+{
+"type": "lithostitched:set_structure_spawn_condition",
+"structures": "#mna_more_structures:witchy_hat_houses",
+"spawn_condition": {
+"type": "lithostitched:all_of",
+"conditions": [
+  {
+    "type": "lithostitched:height_filter",
+    "range_type": "heightmap_relative",
+    "heightmap": "OCEAN_FLOOR_WG",
+    "permitted_range": [-2, 2]
+  }
+]
+},
+"append": true
+}

@@ -1,0 +1,15 @@
+{
+  "name": "mna_more_structures:villages/fey/houseunder13",
+  "fallback": "minecraft:empty",
+  "elements": [
+     {
+      "weight": 10,
+      "element": {
+        "location": "mna_more_structures:villages/fey/houses/tree_13_under",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

@@ -163,9 +163,10 @@ dependencies {
 
     implementation fg.deobf("curse.maven:geckolib-388172:5460312")
     implementation fg.deobf("curse.maven:curios-309927:5066845")
-    implementation fg.deobf("curse.maven:mana-and-artifice-406360:6280355")
+    implementation fg.deobf("curse.maven:mana-and-artifice-406360:6847805")
     implementation fg.deobf("curse.maven:lithostitched-936015:6742615")
     implementation fg.deobf("curse.maven:cristel-lib-856996:5869180")
+    implementation fg.deobf("curse.maven:xaeros-world-map-317780:8698646")
 
     //implementation fg.deobf("curse.maven:magichem-982204:7852796")
     //implementation fg.deobf("curse.maven:forgotten-cantrips-1575372:8571071")
