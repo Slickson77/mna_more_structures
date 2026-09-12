@@ -3,11 +3,11 @@ Fixed textures for protected stone slab and stairs
 
 
 1.20.1-3.0
-Added fay village
+Added fey village
 All villages now spawn faction specific mobs
 fixed end portal room in undead village to generate end portal with various level of completion
 changed undead town entrance to use variants with jigsaw block
-Added Cathedral and graveyard dungeons - the only escape is magic ... a pickax wont help you here!
+Added Cathedral and graveyard dungeons - the only escape is magic ... a pickaxe wont help you here!
 
 
 

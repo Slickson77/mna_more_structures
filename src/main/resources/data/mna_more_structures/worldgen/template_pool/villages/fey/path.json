@@ -6,7 +6,7 @@
       "weight": 10,
       "element": {
         "location": "mna_more_structures:villages/fey/path/l",
-        "processors": "minecraft:empty",
+        "processors": "mna_more_structures:sus_swap",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
       }
@@ -15,7 +15,7 @@
       "weight": 10,
       "element": {
         "location": "mna_more_structures:villages/fey/path/lwitharm",
-        "processors": "minecraft:empty",
+        "processors": "mna_more_structures:sus_swap",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
       }
@@ -24,7 +24,7 @@
       "weight": 10,
       "element": {
         "location": "mna_more_structures:villages/fey/path/straight19",
-        "processors": "minecraft:empty",
+        "processors": "mna_more_structures:sus_swap",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
       }
@@ -37,7 +37,7 @@
           "element_type": "minecraft:single_pool_element",
           "projection": "terrain_matching",
           "location": "mna_more_structures:villages/fey/path/special_connector",
-          "processors": "minecraft:empty"
+          "processors": "mna_more_structures:sus_swap"
         },
         "limit": 2
       }
@@ -46,7 +46,7 @@
       "weight": 10,
       "element": {
         "location": "mna_more_structures:villages/fey/path/t",
-        "processors": "minecraft:empty",
+        "processors": "mna_more_structures:sus_swap",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
       }
@@ -55,7 +55,7 @@
       "weight": 10,
       "element": {
         "location": "mna_more_structures:villages/fey/path/z",
-        "processors": "minecraft:empty",
+        "processors": "mna_more_structures:sus_swap",
         "projection": "terrain_matching",
         "element_type": "minecraft:single_pool_element"
       }

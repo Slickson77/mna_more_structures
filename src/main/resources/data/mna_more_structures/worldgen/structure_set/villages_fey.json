@@ -1,0 +1,17 @@
+{
+	"placement": {
+		"type": "minecraft:random_spread",
+		"spread_type": "linear",
+		"salt": 9862854,
+		"separation": 40,
+		"spacing": 50,
+		"frequency_reduction_method": "default",
+		"frequency": 1
+	},
+	"structures": [
+				{
+			"structure": "mna_more_structures:villages/fey",
+			"weight": 1
+		}
+	]
+}

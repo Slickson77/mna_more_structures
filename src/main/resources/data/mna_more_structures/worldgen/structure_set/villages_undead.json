@@ -1,0 +1,17 @@
+{
+	"placement": {
+		"type": "minecraft:random_spread",
+		"spread_type": "linear",
+		"salt": 5762187,
+		"separation": 90,
+		"spacing": 110,
+		"frequency_reduction_method": "default",
+		"frequency": 1
+	},
+	"structures": [
+		{
+			"structure": "mna_more_structures:villages/undead",
+			"weight": 1
+		}
+	]
+}
