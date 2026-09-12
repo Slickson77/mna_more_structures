@@ -1,13 +1,13 @@
 {
   "variants": {
     "type=bottom": {
-      "model": "mna_more_structures:block/protected_stone_brick_slab"
+      "model": "mna_more_structures:block/protected_stone_slab"
     },
     "type=double": {
-      "model": "mna_more_structures:block/protected_stone_bricks"
+      "model": "mna_more_structures:block/protected_bricks"
     },
     "type=top": {
-      "model": "mna_more_structures:block/protected_stone_brick_slab_top"
+      "model": "mna_more_structures:block/protected_stone_slab_top"
     }
   }
 }
