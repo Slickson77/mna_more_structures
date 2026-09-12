@@ -10,7 +10,11 @@
       "structure_set": [
         "mna_more_structures:faction",
         "mna_more_structures:ritual",
-        "mna_more_structures:villages"
+        "mna_more_structures:villages_council",
+        "mna_more_structures:villages_fey",
+        "mna_more_structures:villages_undead",
+        "mna_more_structures:dungeon"
+
       ]
     },
     {
