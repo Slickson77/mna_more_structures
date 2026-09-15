@@ -1,0 +1,19 @@
+{
+  "predicate": {
+    "type": "lithostitched:mod_loaded",
+    "mod_id": "endrem"
+  },
+  "type": "lithostitched:add_template_pool_elements",
+  "template_pools": "mna_more_structures:villages/undead/portal",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "mna_more_structures:villages/undead/poi/portal/end_remastered/end_remastered",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}
