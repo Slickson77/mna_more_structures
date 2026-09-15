@@ -22,7 +22,7 @@
         "delegate": {
           "element_type": "minecraft:single_pool_element",
           "projection": "rigid",
-          "location": "mna_more_structures:villages/fey/path/special/ice_borrow",
+          "location": "mna_more_structures:villages/fey/path/special/ice_burrow",
           "processors": "minecraft:empty"
         },
         "limit": 1
@@ -74,7 +74,7 @@
         "delegate": {
           "element_type": "minecraft:single_pool_element",
           "projection": "rigid",
-          "location": "mna_more_structures:villages/fey/path/special/pixie_hide_away",
+          "location": "mna_more_structures:villages/fey/path/special/pixie_hide_a_way",
           "processors": "minecraft:empty"
         },
         "limit": 1
