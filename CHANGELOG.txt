@@ -1,3 +1,19 @@
+1.20.1-3.2
+added end remastered support for portal generation in undead village maze(portal pool is now empty and entries get injected depending on mod existing)
+fixed magichem spawn weight in fey village
+lowered fey village size
+
+Thank you Zerastos (my guardian developer), for the following ...
+removed an old jigsaw from the graveyard that was referencing a non-existent pool
+fixed fey tree #6 and #8 (also changed #11 and #13 to all follow the same naming convention)
+Added undead lights #3, #4, #11, #21
+fixed jigsaw in demon refuge
+fixed ice burrow and pixie hid a way not spawning due to misspellings in template pool
+fixed glass swapper not applying light gray runic glass due misspelling
+fixed a tag reference to birch magic stump #2
+
+
+
 1.20.1-3.1
 Fixed textures for protected stone slab and stairs
 updated a few structure files in council and fey villages
