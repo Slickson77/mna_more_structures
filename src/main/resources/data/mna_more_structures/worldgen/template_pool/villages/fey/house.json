@@ -3,12 +3,6 @@
   "fallback": "minecraft:empty",
   "elements": [
     {
-      "weight": 25,
-      "element": {
-        "element_type": "minecraft:empty_pool_element"
-      }
-    },
-    {
       "weight": 10,
       "element": {
         "location": "mna_more_structures:villages/fey/houses/tree_1",

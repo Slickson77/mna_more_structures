@@ -4,7 +4,7 @@
 	"biomes": "minecraft:dark_forest",
 	"terrain_adaptation": "beard_thin",
 	"start_pool": "mna_more_structures:villages/fey/start_pool",
-	"size": 4,
+	"size": 3,
 	"start_height": {
 		"absolute": 0
 	},
