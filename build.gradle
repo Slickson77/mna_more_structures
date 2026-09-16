@@ -167,9 +167,10 @@ dependencies {
     implementation fg.deobf("curse.maven:lithostitched-936015:6742615")
     implementation fg.deobf("curse.maven:cristel-lib-856996:5869180")
     implementation fg.deobf("curse.maven:xaeros-world-map-317780:8698646")
-    //implementation fg.deobf("curse.maven:endremastered-404183:5598990")
 
-    //implementation fg.deobf("curse.maven:magichem-982204:7852796")
+    //Various compats
+    //implementation fg.deobf("curse.maven:endremastered-404183:5598990")
+    implementation fg.deobf("curse.maven:magichem-982204:7852796")
     //implementation fg.deobf("curse.maven:forgotten-cantrips-1575372:8571071")
 
     // Example mod dependency using a mod jar from ./libs with a flat dir repository
