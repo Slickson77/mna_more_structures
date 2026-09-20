@@ -1,4 +1,5 @@
 1.20.1-3.4
+Fixed jigsaw rooms not spawning in cathedral and graveyard structures
 
 
 1.20.1-3.3
