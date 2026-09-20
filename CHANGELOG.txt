@@ -1,3 +1,8 @@
+1.20.1-3.3
+Fixed suspicious gravel swap to apply a loot pool
+added MnA: Arcane Adornment compatibility
+
+
 1.20.1-3.2
 added end remastered support for portal generation in undead village maze(portal pool is now empty and entries get injected depending on mod existing)
 fixed magichem spawn weight in fey village
