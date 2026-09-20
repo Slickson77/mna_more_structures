@@ -3,7 +3,7 @@
 	"step": "surface_structures",
 	"biomes": "#mna_more_structures:has_dungeon_structures",
 	"start_pool": "mna_more_structures:cathedral/start_pool",
-	"size": 2,	
+	"size": 6,
 	"terrain_adaptation": "beard_thin",
 	"start_height": {
     	"absolute": -1
