@@ -1,0 +1,17 @@
+{
+	"type": "lithostitched:add_structure_set_entries",
+	"priority": 1000,
+	"structure_sets": [
+		"mna:manaweave_caches"
+	  ],
+	  "entries": [
+		{
+		  "structure": "mna_more_structures:cache/cache_large_end",
+		  "weight": 1
+		},
+		  {
+			  "structure": "mna_more_structures:cache/cache_capsule_end",
+			  "weight": 1
+		  }
+	  ]
+}

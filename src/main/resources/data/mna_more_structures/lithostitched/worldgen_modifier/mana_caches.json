@@ -1,0 +1,21 @@
+{
+  "type": "lithostitched:set_structure_spawn_condition",
+  "structures": [
+    "mna:caches/largearcane",
+    "mna:caches/largearcane_broken",
+    "mna:caches/smallarcane",
+    "mna:caches/smallarcane_broken",
+    "mna_more_structures:cache/cache_large_end",
+    "mna_more_structures:cache/cache_capsule_end"
+  ],
+  "spawn_condition": {
+    "type": "lithostitched:height_filter",
+    "range_type": "absolute",
+    "heightmap": "WORLD_SURFACE_WG",
+    "permitted_range": {
+      "min_inclusive": 1,
+      "max_inclusive": 200
+    }
+  },
+  "append": true
+}
