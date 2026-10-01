@@ -1,0 +1,16 @@
+{
+  "name": "mna_more_structures:villages/cache/cache_large_end_under",
+  "fallback": "minecraft:empty",
+  "elements": [
+
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:cache/cache_large_end_under",
+        "processors": "minecraft:empty",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}

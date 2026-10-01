@@ -1,0 +1,16 @@
+{
+  "name": "mna_more_structures:villages/cache/cache_capsule_end",
+  "fallback": "minecraft:empty",
+  "elements": [
+
+    {
+      "weight": 1,
+      "element": {
+        "location": "mna_more_structures:cache/cache_capsule_end",
+        "processors": "mna_more_structures:arcane_infused_swap",
+        "projection": "rigid",
+        "element_type": "minecraft:single_pool_element"
+      }
+    }
+  ]
+}
